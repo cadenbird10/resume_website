@@ -5,7 +5,6 @@ import m2 from '../assets/missionPhotos/m2.jpg';
 import m3 from '../assets/missionPhotos/m3.jpg';
 import m4 from '../assets/missionPhotos/m4.jpg';
 import m5 from '../assets/missionPhotos/m5.jpg';
-// import m6 from '../assets/missionPhotos/m6.jpg';
 import m7 from '../assets/missionPhotos/m7.jpg';
 import m8 from '../assets/missionPhotos/m8.jpg';
 import m9 from '../assets/missionPhotos/m9.jpg';
