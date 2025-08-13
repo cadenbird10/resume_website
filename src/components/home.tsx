@@ -1,5 +1,5 @@
 import React from 'react';
-import './Home.css';
+import './home.css';
 import profileImage from '../assets/professionalPic.jpg'; // Make sure this path is correct
 
 const Home: React.FC = () => {

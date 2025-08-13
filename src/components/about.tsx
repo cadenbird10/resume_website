@@ -1,5 +1,5 @@
 import React from 'react';
-import './About.css';
+import './about.css';
 import Gallery from './gallery'; // Make sure the filename and path are correct
 
 const About: React.FC = () => {

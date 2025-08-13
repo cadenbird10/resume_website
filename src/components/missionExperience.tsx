@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './Mission.css';
+import './mission.css';
 import Slideshow from './slideshow'; // Adjust the path if needed
 
 const Mission: React.FC = () => {

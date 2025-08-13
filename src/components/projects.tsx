@@ -1,7 +1,7 @@
 import React from 'react';
 import { projectData } from '../type/projectData';
 import ProjectCard from './projectCard';
-import './Projects.css';
+import './projects.css';
 
 const Projects: React.FC = () => {
   return (
