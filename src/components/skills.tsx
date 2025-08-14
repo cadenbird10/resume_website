@@ -14,7 +14,7 @@ const Skills: React.FC = () => {
       <div className="skills-category">
         <h3>Experienced In</h3>
         <p>
-          Excel, Public Speaking, AWS, Full-Stack Development, Agile, SCRUM, Project Management, Salesforce, VBA,
+          Excel, AWS, Full-Stack Development, Agile, SCRUM, Project Management, Salesforce, VBA,
           Machine Learning, sklearn, React, Azure, ASP.NET, Node.js, Figma
         </p>
       </div>
@@ -30,7 +30,7 @@ const Skills: React.FC = () => {
       <div className="skills-category">
         <h3>Miscellaneous Skills</h3>
         <p>
-          Nunchuck skills, juggling, lots of other really cools things
+          Public speaking, mentoring/training, clear communication, teamwork collaboration
         </p>
       </div>
     </section>
