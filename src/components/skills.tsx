@@ -30,7 +30,7 @@ const Skills: React.FC = () => {
       <div className="skills-category">
         <h3>Miscellaneous Skills</h3>
         <p>
-          Public speaking, mentoring/training, clear communication, teamwork collaboration
+          Public speaking, bilingual, mentoring/training, teamwork collaboration
         </p>
       </div>
     </section>
